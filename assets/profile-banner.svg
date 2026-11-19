@@ -1,0 +1,51 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Volodymyr Ziabkin — Senior Frontend Engineer">
+  <defs>
+    <linearGradient id="bg" x1="55" y1="15" x2="1120" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1931"/><stop offset=".53" stop-color="#101A40"/><stop offset="1" stop-color="#241449"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="68" y1="66" x2="492" y2="66" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#70E8DA"/><stop offset=".48" stop-color="#68B9FF"/><stop offset="1" stop-color="#B995FF"/>
+    </linearGradient>
+    <linearGradient id="line" x1="761" y1="90" x2="1175" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63E7DD" stop-opacity=".85"/><stop offset="1" stop-color="#A879FF" stop-opacity=".4"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#C8D6FF" fill-opacity=".12"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+    <clipPath id="cut"><rect width="1200" height="320" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#cut)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect x="680" y="10" width="510" height="300" fill="url(#dots)"/>
+    <circle cx="1028" cy="55" r="131" fill="#8055FF" opacity=".14" filter="url(#glow)"/>
+    <circle cx="760" cy="300" r="110" fill="#00C3C7" opacity=".13" filter="url(#glow)"/>
+    <path d="M728 30L1115 30L1180 95" stroke="#95ABF8" stroke-opacity=".16" stroke-width="1"/>
+    <path d="M741 287L1131 287L1187 232" stroke="#95ABF8" stroke-opacity=".16" stroke-width="1"/>
+    <rect x="52" y="48" width="8" height="37" rx="4" fill="url(#accent)"/>
+    <text x="78" y="63" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="15" letter-spacing="3" fill="#88D9EF">ENGINEERING / FRONTEND</text>
+    <text x="53" y="132" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="47" letter-spacing="-1.4" fill="#FFFFFF">VOLODYMYR</text>
+    <text x="53" y="186" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="47" letter-spacing="-1.4" fill="#FFFFFF">ZIABKIN</text>
+    <rect x="53" y="207" width="418" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="53" y="242" font-family="DejaVu Sans, Arial, sans-serif" font-weight="500" font-size="20" fill="#CED9F5">Senior Frontend Engineer</text>
+    <text x="53" y="275" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#95A9C9">React  ·  TypeScript  ·  Architecture  ·  Electron</text>
+    <g transform="translate(756 52)">
+      <rect width="386" height="213" rx="18" fill="#0A132C" stroke="url(#line)" stroke-width="1.5"/>
+      <rect x="1" y="1" width="384" height="43" rx="17" fill="#18223D"/>
+      <rect x="1" y="25" width="384" height="20" fill="#18223D"/>
+      <circle cx="22" cy="22" r="5" fill="#FF6F88"/><circle cx="41" cy="22" r="5" fill="#FFD27A"/><circle cx="60" cy="22" r="5" fill="#65DBC4"/>
+      <text x="87" y="26" font-family="DejaVu Sans Mono, monospace" font-size="12" fill="#9AB0D1">engineer.tsx</text>
+      <text x="25" y="81" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#83E8DC">const</text>
+      <text x="81" y="81" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#E7ECFF">focus</text>
+      <text x="133" y="81" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#B99BFF">=</text>
+      <text x="151" y="81" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#D9A8FD">[</text>
+      <text x="47" y="111" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#A9D4FF">'scalable UI',</text>
+      <text x="47" y="138" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#A9D4FF">'production quality',</text>
+      <text x="47" y="165" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#A9D4FF">'clear architecture'</text>
+      <text x="25" y="192" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#D9A8FD">];</text>
+    </g>
+    <rect x="1010" y="245" width="156" height="46" rx="12" fill="#24365D" stroke="#526AB7"/>
+    <text x="1026" y="265" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#AAC5E6">PRODUCTION</text>
+    <text x="1026" y="280" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="13" fill="#F4F6FF">7+ YEARS</text>
+  </g>
+</svg>
