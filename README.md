@@ -60,14 +60,3 @@ Also contributed to **NestJS** services and worked with authentication, webhooks
 
 I use AI tools to speed up implementation and test generation, with an emphasis on **architecture, code review, and verification**.
 
-## Featured projects
-
-Portfolio projects are in progress. This section will feature selected React/TypeScript and full-stack work with **working demos, architecture notes, and tests**.
-
----
-
-<div align="center">
-  <strong>Open to remote frontend and frontend-focused full-stack opportunities.</strong>
-  <br /><br />
-  <a href="mailto:volodymyr.ziabkin@gmail.com">Get in touch</a>
-</div>
