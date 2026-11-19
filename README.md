@@ -1,36 +1,73 @@
-# Volodymyr Ziabkin
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Volodymyr Ziabkin — Senior Frontend Engineer" width="100%" />
 
-**Senior Frontend Engineer** · React · TypeScript · Frontend Architecture · Electron
+  <br />
 
-I build and modernize production frontend applications, with a focus on reliable interfaces, maintainable architecture, and practical product decisions. I have **7+ years of commercial experience** across betting operations, player support, and food delivery products.
+  [![Email](https://img.shields.io/badge/Let's%20Connect-Email-6E56CF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volodymyr.ziabkin@gmail.com)
+  [![Location](https://img.shields.io/badge/Based%20in-Bulgaria-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/VolodymyrZiabkin)
+  ![Open to remote](https://img.shields.io/badge/Open%20to-Remote%20Opportunities-2563EB?style=for-the-badge)
+</div>
 
-### What I've worked on
+## About me
 
-- **Frontend modernization:** Delivered a phased migration from React 16 to React 19, including routing, state management, dependencies, and class-to-function refactoring.
-- **Production reliability:** Investigated and resolved a recurring failure in a WebSocket-driven virtualized list.
-- **Design systems and UI architecture:** Built reusable React/TypeScript components in Storybook and worked with Feature-Sliced Design.
-- **Full-stack ownership:** Developed a React/Node.js administration platform, contributed to API design, and built backend integrations with Express.js and Koa.js.
+I’m a **Senior Frontend Engineer with 7+ years of commercial experience** building and modernizing production applications in **betting operations, player support, and food delivery**.
 
-### Tech stack
+My focus is on **frontend architecture, React and TypeScript, reliable user interfaces, and solving real production problems**. I enjoy turning complex workflows into maintainable products and working across frontend and backend boundaries when needed.
 
-**Frontend:** React · TypeScript · JavaScript · React Router · Electron (renderer)
+### Engineering highlights
 
-**Architecture & UI:** Feature-Sliced Design · Storybook · Material UI · Ant Design
+- **Modernization:** Delivered a phased **React 16 → 19** migration, including routing, state management, class-to-function refactoring, and dependency upgrades.
+- **Production debugging:** Resolved a recurring issue in a **WebSocket-driven virtualized list** by tracing unstable callback references.
+- **Architecture and components:** Worked with **Feature-Sliced Design**, shared UI components, and **Storybook** in production environments.
+- **End-to-end product work:** Owned frontend delivery and releases; previously built **React + Node.js** administration tools and REST/API integrations.
 
-**State & integration:** Redux · MobX · TanStack Query · REST APIs · WebSocket · Socket.IO
+## Tech stack
 
-**Backend:** Node.js · Express.js · Koa.js · NestJS (contributions) · MySQL · MongoDB
+**Frontend & UI**
 
-**Testing & workflow:** Playwright · Unit & component testing · Claude Code · Codex
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### Beyond coding
+**Architecture, data & state**
 
-I use AI-assisted development tools to accelerate implementation and testing, while keeping architecture, code quality, and verification central to the process.
+![FSD](https://img.shields.io/badge/Feature--Sliced_Design-303F60?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-1D293D?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**Currently building:** Independent projects that demonstrate practical frontend architecture, full-stack integrations, and automated testing.
+**Backend & integrations**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Koa](https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=koa&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+Also contributed to **NestJS** services and worked with authentication, webhooks, Stripe, and API documentation.
+
+**Testing & AI-assisted workflow**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-161B22?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+I use AI tools to speed up implementation and test generation, with an emphasis on **architecture, code review, and verification**.
+
+## Featured projects
+
+Portfolio projects are in progress. This section will feature selected React/TypeScript and full-stack work with **working demos, architecture notes, and tests**.
 
 ---
 
-**Based in Burgas, Bulgaria**
-
-[Email me](mailto:volodymyr.ziabkin@gmail.com)
+<div align="center">
+  <strong>Open to remote frontend and frontend-focused full-stack opportunities.</strong>
+  <br /><br />
+  <a href="mailto:volodymyr.ziabkin@gmail.com">Get in touch</a>
+</div>
